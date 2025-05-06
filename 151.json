@@ -1,0 +1,1992 @@
+{
+  "Ivysaur": [
+    {
+      "id": "sv3pt5-2",
+      "name": "Ivysaur",
+      "images": "https://images.pokemontcg.io/sv3pt5/2_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "sv3pt5-167",
+      "name": "Ivysaur",
+      "images": "https://images.pokemontcg.io/sv3pt5/167_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Bulbasaur": [
+    {
+      "id": "sv3pt5-1",
+      "name": "Bulbasaur",
+      "images": "https://images.pokemontcg.io/sv3pt5/1_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    },
+    {
+      "id": "sv3pt5-166",
+      "name": "Bulbasaur",
+      "images": "https://images.pokemontcg.io/sv3pt5/166_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Venusaur ex": [
+    {
+      "id": "sv3pt5-3",
+      "name": "Venusaur ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/3_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-182",
+      "name": "Venusaur ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/182_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    },
+    {
+      "id": "sv3pt5-198",
+      "name": "Venusaur ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/198_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Special Illustration Rare"
+    }
+  ],
+  "Squirtle": [
+    {
+      "id": "sv3pt5-7",
+      "name": "Squirtle",
+      "images": "https://images.pokemontcg.io/sv3pt5/7_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    },
+    {
+      "id": "sv3pt5-170",
+      "name": "Squirtle",
+      "images": "https://images.pokemontcg.io/sv3pt5/170_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Rattata": [
+    {
+      "id": "sv3pt5-19",
+      "name": "Rattata",
+      "images": "https://images.pokemontcg.io/sv3pt5/19_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Wartortle": [
+    {
+      "id": "sv3pt5-8",
+      "name": "Wartortle",
+      "images": "https://images.pokemontcg.io/sv3pt5/8_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "sv3pt5-171",
+      "name": "Wartortle",
+      "images": "https://images.pokemontcg.io/sv3pt5/171_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Ekans": [
+    {
+      "id": "sv3pt5-23",
+      "name": "Ekans",
+      "images": "https://images.pokemontcg.io/sv3pt5/23_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Blastoise ex": [
+    {
+      "id": "sv3pt5-9",
+      "name": "Blastoise ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/9_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-184",
+      "name": "Blastoise ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/184_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    },
+    {
+      "id": "sv3pt5-200",
+      "name": "Blastoise ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/200_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Special Illustration Rare"
+    }
+  ],
+  "Arbok ex": [
+    {
+      "id": "sv3pt5-24",
+      "name": "Arbok ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/24_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-185",
+      "name": "Arbok ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/185_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    }
+  ],
+  "Butterfree": [
+    {
+      "id": "sv3pt5-12",
+      "name": "Butterfree",
+      "images": "https://images.pokemontcg.io/sv3pt5/12_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Pikachu": [
+    {
+      "id": "sv3pt5-25",
+      "name": "Pikachu",
+      "images": "https://images.pokemontcg.io/sv3pt5/25_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    },
+    {
+      "id": "sv3pt5-173",
+      "name": "Pikachu",
+      "images": "https://images.pokemontcg.io/sv3pt5/173_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Pidgey": [
+    {
+      "id": "sv3pt5-16",
+      "name": "Pidgey",
+      "images": "https://images.pokemontcg.io/sv3pt5/16_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Nidoran \u2640": [
+    {
+      "id": "sv3pt5-29",
+      "name": "Nidoran \u2640",
+      "images": "https://images.pokemontcg.io/sv3pt5/29_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Spearow": [
+    {
+      "id": "sv3pt5-21",
+      "name": "Spearow",
+      "images": "https://images.pokemontcg.io/sv3pt5/21_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Nidorino": [
+    {
+      "id": "sv3pt5-33",
+      "name": "Nidorino",
+      "images": "https://images.pokemontcg.io/sv3pt5/33_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Nidorina": [
+    {
+      "id": "sv3pt5-30",
+      "name": "Nidorina",
+      "images": "https://images.pokemontcg.io/sv3pt5/30_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Nidoking": [
+    {
+      "id": "sv3pt5-34",
+      "name": "Nidoking",
+      "images": "https://images.pokemontcg.io/sv3pt5/34_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    },
+    {
+      "id": "sv3pt5-174",
+      "name": "Nidoking",
+      "images": "https://images.pokemontcg.io/sv3pt5/174_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Nidoran \u2642": [
+    {
+      "id": "sv3pt5-32",
+      "name": "Nidoran \u2642",
+      "images": "https://images.pokemontcg.io/sv3pt5/32_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Clefairy": [
+    {
+      "id": "sv3pt5-35",
+      "name": "Clefairy",
+      "images": "https://images.pokemontcg.io/sv3pt5/35_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Clefable": [
+    {
+      "id": "sv3pt5-36",
+      "name": "Clefable",
+      "images": "https://images.pokemontcg.io/sv3pt5/36_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Gloom": [
+    {
+      "id": "sv3pt5-44",
+      "name": "Gloom",
+      "images": "https://images.pokemontcg.io/sv3pt5/44_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Vileplume": [
+    {
+      "id": "sv3pt5-45",
+      "name": "Vileplume",
+      "images": "https://images.pokemontcg.io/sv3pt5/45_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Paras": [
+    {
+      "id": "sv3pt5-46",
+      "name": "Paras",
+      "images": "https://images.pokemontcg.io/sv3pt5/46_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Dugtrio": [
+    {
+      "id": "sv3pt5-51",
+      "name": "Dugtrio",
+      "images": "https://images.pokemontcg.io/sv3pt5/51_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Parasect": [
+    {
+      "id": "sv3pt5-47",
+      "name": "Parasect",
+      "images": "https://images.pokemontcg.io/sv3pt5/47_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Diglett": [
+    {
+      "id": "sv3pt5-50",
+      "name": "Diglett",
+      "images": "https://images.pokemontcg.io/sv3pt5/50_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Charmander": [
+    {
+      "id": "sv3pt5-4",
+      "name": "Charmander",
+      "images": "https://images.pokemontcg.io/sv3pt5/4_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    },
+    {
+      "id": "sv3pt5-168",
+      "name": "Charmander",
+      "images": "https://images.pokemontcg.io/sv3pt5/168_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Kakuna": [
+    {
+      "id": "sv3pt5-14",
+      "name": "Kakuna",
+      "images": "https://images.pokemontcg.io/sv3pt5/14_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Charmeleon": [
+    {
+      "id": "sv3pt5-5",
+      "name": "Charmeleon",
+      "images": "https://images.pokemontcg.io/sv3pt5/5_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "sv3pt5-169",
+      "name": "Charmeleon",
+      "images": "https://images.pokemontcg.io/sv3pt5/169_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Charizard ex": [
+    {
+      "id": "sv3pt5-6",
+      "name": "Charizard ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/6_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-183",
+      "name": "Charizard ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/183_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    },
+    {
+      "id": "sv3pt5-199",
+      "name": "Charizard ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/199_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Special Illustration Rare"
+    }
+  ],
+  "Caterpie": [
+    {
+      "id": "sv3pt5-10",
+      "name": "Caterpie",
+      "images": "https://images.pokemontcg.io/sv3pt5/10_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    },
+    {
+      "id": "sv3pt5-172",
+      "name": "Caterpie",
+      "images": "https://images.pokemontcg.io/sv3pt5/172_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Metapod": [
+    {
+      "id": "sv3pt5-11",
+      "name": "Metapod",
+      "images": "https://images.pokemontcg.io/sv3pt5/11_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Weedle": [
+    {
+      "id": "sv3pt5-13",
+      "name": "Weedle",
+      "images": "https://images.pokemontcg.io/sv3pt5/13_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Pidgeotto": [
+    {
+      "id": "sv3pt5-17",
+      "name": "Pidgeotto",
+      "images": "https://images.pokemontcg.io/sv3pt5/17_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Pidgeot": [
+    {
+      "id": "sv3pt5-18",
+      "name": "Pidgeot",
+      "images": "https://images.pokemontcg.io/sv3pt5/18_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Raichu": [
+    {
+      "id": "sv3pt5-26",
+      "name": "Raichu",
+      "images": "https://images.pokemontcg.io/sv3pt5/26_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Sandshrew": [
+    {
+      "id": "sv3pt5-27",
+      "name": "Sandshrew",
+      "images": "https://images.pokemontcg.io/sv3pt5/27_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Sandslash": [
+    {
+      "id": "sv3pt5-28",
+      "name": "Sandslash",
+      "images": "https://images.pokemontcg.io/sv3pt5/28_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Nidoqueen": [
+    {
+      "id": "sv3pt5-31",
+      "name": "Nidoqueen",
+      "images": "https://images.pokemontcg.io/sv3pt5/31_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Jigglypuff": [
+    {
+      "id": "sv3pt5-39",
+      "name": "Jigglypuff",
+      "images": "https://images.pokemontcg.io/sv3pt5/39_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Wigglytuff ex": [
+    {
+      "id": "sv3pt5-40",
+      "name": "Wigglytuff ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/40_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-187",
+      "name": "Wigglytuff ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/187_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    }
+  ],
+  "Zubat": [
+    {
+      "id": "sv3pt5-41",
+      "name": "Zubat",
+      "images": "https://images.pokemontcg.io/sv3pt5/41_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Oddish": [
+    {
+      "id": "sv3pt5-43",
+      "name": "Oddish",
+      "images": "https://images.pokemontcg.io/sv3pt5/43_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Venomoth": [
+    {
+      "id": "sv3pt5-49",
+      "name": "Venomoth",
+      "images": "https://images.pokemontcg.io/sv3pt5/49_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Beedrill": [
+    {
+      "id": "sv3pt5-15",
+      "name": "Beedrill",
+      "images": "https://images.pokemontcg.io/sv3pt5/15_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Raticate": [
+    {
+      "id": "sv3pt5-20",
+      "name": "Raticate",
+      "images": "https://images.pokemontcg.io/sv3pt5/20_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Fearow": [
+    {
+      "id": "sv3pt5-22",
+      "name": "Fearow",
+      "images": "https://images.pokemontcg.io/sv3pt5/22_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Vulpix": [
+    {
+      "id": "sv3pt5-37",
+      "name": "Vulpix",
+      "images": "https://images.pokemontcg.io/sv3pt5/37_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Ninetales ex": [
+    {
+      "id": "sv3pt5-38",
+      "name": "Ninetales ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/38_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-186",
+      "name": "Ninetales ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/186_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    }
+  ],
+  "Golbat": [
+    {
+      "id": "sv3pt5-42",
+      "name": "Golbat",
+      "images": "https://images.pokemontcg.io/sv3pt5/42_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Venonat": [
+    {
+      "id": "sv3pt5-48",
+      "name": "Venonat",
+      "images": "https://images.pokemontcg.io/sv3pt5/48_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Meowth": [
+    {
+      "id": "sv3pt5-52",
+      "name": "Meowth",
+      "images": "https://images.pokemontcg.io/sv3pt5/52_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Persian": [
+    {
+      "id": "sv3pt5-53",
+      "name": "Persian",
+      "images": "https://images.pokemontcg.io/sv3pt5/53_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Arcanine": [
+    {
+      "id": "sv3pt5-59",
+      "name": "Arcanine",
+      "images": "https://images.pokemontcg.io/sv3pt5/59_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Psyduck": [
+    {
+      "id": "sv3pt5-54",
+      "name": "Psyduck",
+      "images": "https://images.pokemontcg.io/sv3pt5/54_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    },
+    {
+      "id": "sv3pt5-175",
+      "name": "Psyduck",
+      "images": "https://images.pokemontcg.io/sv3pt5/175_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Poliwag": [
+    {
+      "id": "sv3pt5-60",
+      "name": "Poliwag",
+      "images": "https://images.pokemontcg.io/sv3pt5/60_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Poliwhirl": [
+    {
+      "id": "sv3pt5-61",
+      "name": "Poliwhirl",
+      "images": "https://images.pokemontcg.io/sv3pt5/61_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    },
+    {
+      "id": "sv3pt5-176",
+      "name": "Poliwhirl",
+      "images": "https://images.pokemontcg.io/sv3pt5/176_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Victreebel": [
+    {
+      "id": "sv3pt5-71",
+      "name": "Victreebel",
+      "images": "https://images.pokemontcg.io/sv3pt5/71_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Rapidash": [
+    {
+      "id": "sv3pt5-78",
+      "name": "Rapidash",
+      "images": "https://images.pokemontcg.io/sv3pt5/78_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Magneton": [
+    {
+      "id": "sv3pt5-82",
+      "name": "Magneton",
+      "images": "https://images.pokemontcg.io/sv3pt5/82_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Dodrio": [
+    {
+      "id": "sv3pt5-85",
+      "name": "Dodrio",
+      "images": "https://images.pokemontcg.io/sv3pt5/85_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Gastly": [
+    {
+      "id": "sv3pt5-92",
+      "name": "Gastly",
+      "images": "https://images.pokemontcg.io/sv3pt5/92_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Gengar": [
+    {
+      "id": "sv3pt5-94",
+      "name": "Gengar",
+      "images": "https://images.pokemontcg.io/sv3pt5/94_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Onix": [
+    {
+      "id": "sv3pt5-95",
+      "name": "Onix",
+      "images": "https://images.pokemontcg.io/sv3pt5/95_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Growlithe": [
+    {
+      "id": "sv3pt5-58",
+      "name": "Growlithe",
+      "images": "https://images.pokemontcg.io/sv3pt5/58_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Kadabra": [
+    {
+      "id": "sv3pt5-64",
+      "name": "Kadabra",
+      "images": "https://images.pokemontcg.io/sv3pt5/64_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Machop": [
+    {
+      "id": "sv3pt5-66",
+      "name": "Machop",
+      "images": "https://images.pokemontcg.io/sv3pt5/66_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Bellsprout": [
+    {
+      "id": "sv3pt5-69",
+      "name": "Bellsprout",
+      "images": "https://images.pokemontcg.io/sv3pt5/69_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Tentacool": [
+    {
+      "id": "sv3pt5-72",
+      "name": "Tentacool",
+      "images": "https://images.pokemontcg.io/sv3pt5/72_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Tentacruel": [
+    {
+      "id": "sv3pt5-73",
+      "name": "Tentacruel",
+      "images": "https://images.pokemontcg.io/sv3pt5/73_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Golem ex": [
+    {
+      "id": "sv3pt5-76",
+      "name": "Golem ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/76_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-189",
+      "name": "Golem ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/189_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    }
+  ],
+  "Ponyta": [
+    {
+      "id": "sv3pt5-77",
+      "name": "Ponyta",
+      "images": "https://images.pokemontcg.io/sv3pt5/77_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Slowpoke": [
+    {
+      "id": "sv3pt5-79",
+      "name": "Slowpoke",
+      "images": "https://images.pokemontcg.io/sv3pt5/79_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Farfetch'd": [
+    {
+      "id": "sv3pt5-83",
+      "name": "Farfetch'd",
+      "images": "https://images.pokemontcg.io/sv3pt5/83_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Doduo": [
+    {
+      "id": "sv3pt5-84",
+      "name": "Doduo",
+      "images": "https://images.pokemontcg.io/sv3pt5/84_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Mankey": [
+    {
+      "id": "sv3pt5-56",
+      "name": "Mankey",
+      "images": "https://images.pokemontcg.io/sv3pt5/56_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Abra": [
+    {
+      "id": "sv3pt5-63",
+      "name": "Abra",
+      "images": "https://images.pokemontcg.io/sv3pt5/63_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Machoke": [
+    {
+      "id": "sv3pt5-67",
+      "name": "Machoke",
+      "images": "https://images.pokemontcg.io/sv3pt5/67_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "sv3pt5-177",
+      "name": "Machoke",
+      "images": "https://images.pokemontcg.io/sv3pt5/177_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Machamp": [
+    {
+      "id": "sv3pt5-68",
+      "name": "Machamp",
+      "images": "https://images.pokemontcg.io/sv3pt5/68_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Weepinbell": [
+    {
+      "id": "sv3pt5-70",
+      "name": "Weepinbell",
+      "images": "https://images.pokemontcg.io/sv3pt5/70_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Graveler": [
+    {
+      "id": "sv3pt5-75",
+      "name": "Graveler",
+      "images": "https://images.pokemontcg.io/sv3pt5/75_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Magnemite": [
+    {
+      "id": "sv3pt5-81",
+      "name": "Magnemite",
+      "images": "https://images.pokemontcg.io/sv3pt5/81_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Seel": [
+    {
+      "id": "sv3pt5-86",
+      "name": "Seel",
+      "images": "https://images.pokemontcg.io/sv3pt5/86_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Grimer": [
+    {
+      "id": "sv3pt5-88",
+      "name": "Grimer",
+      "images": "https://images.pokemontcg.io/sv3pt5/88_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Haunter": [
+    {
+      "id": "sv3pt5-93",
+      "name": "Haunter",
+      "images": "https://images.pokemontcg.io/sv3pt5/93_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Golduck": [
+    {
+      "id": "sv3pt5-55",
+      "name": "Golduck",
+      "images": "https://images.pokemontcg.io/sv3pt5/55_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Primeape": [
+    {
+      "id": "sv3pt5-57",
+      "name": "Primeape",
+      "images": "https://images.pokemontcg.io/sv3pt5/57_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Poliwrath": [
+    {
+      "id": "sv3pt5-62",
+      "name": "Poliwrath",
+      "images": "https://images.pokemontcg.io/sv3pt5/62_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Alakazam ex": [
+    {
+      "id": "sv3pt5-65",
+      "name": "Alakazam ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/65_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-188",
+      "name": "Alakazam ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/188_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    },
+    {
+      "id": "sv3pt5-201",
+      "name": "Alakazam ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/201_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Special Illustration Rare"
+    }
+  ],
+  "Geodude": [
+    {
+      "id": "sv3pt5-74",
+      "name": "Geodude",
+      "images": "https://images.pokemontcg.io/sv3pt5/74_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Slowbro": [
+    {
+      "id": "sv3pt5-80",
+      "name": "Slowbro",
+      "images": "https://images.pokemontcg.io/sv3pt5/80_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Dewgong": [
+    {
+      "id": "sv3pt5-87",
+      "name": "Dewgong",
+      "images": "https://images.pokemontcg.io/sv3pt5/87_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Muk": [
+    {
+      "id": "sv3pt5-89",
+      "name": "Muk",
+      "images": "https://images.pokemontcg.io/sv3pt5/89_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Shellder": [
+    {
+      "id": "sv3pt5-90",
+      "name": "Shellder",
+      "images": "https://images.pokemontcg.io/sv3pt5/90_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Cloyster": [
+    {
+      "id": "sv3pt5-91",
+      "name": "Cloyster",
+      "images": "https://images.pokemontcg.io/sv3pt5/91_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Hypno": [
+    {
+      "id": "sv3pt5-97",
+      "name": "Hypno",
+      "images": "https://images.pokemontcg.io/sv3pt5/97_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Cubone": [
+    {
+      "id": "sv3pt5-104",
+      "name": "Cubone",
+      "images": "https://images.pokemontcg.io/sv3pt5/104_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Marowak": [
+    {
+      "id": "sv3pt5-105",
+      "name": "Marowak",
+      "images": "https://images.pokemontcg.io/sv3pt5/105_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Hitmonlee": [
+    {
+      "id": "sv3pt5-106",
+      "name": "Hitmonlee",
+      "images": "https://images.pokemontcg.io/sv3pt5/106_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Hitmonchan": [
+    {
+      "id": "sv3pt5-107",
+      "name": "Hitmonchan",
+      "images": "https://images.pokemontcg.io/sv3pt5/107_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Rhydon": [
+    {
+      "id": "sv3pt5-112",
+      "name": "Rhydon",
+      "images": "https://images.pokemontcg.io/sv3pt5/112_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Kangaskhan ex": [
+    {
+      "id": "sv3pt5-115",
+      "name": "Kangaskhan ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/115_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-190",
+      "name": "Kangaskhan ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/190_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    }
+  ],
+  "Seadra": [
+    {
+      "id": "sv3pt5-117",
+      "name": "Seadra",
+      "images": "https://images.pokemontcg.io/sv3pt5/117_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Seaking": [
+    {
+      "id": "sv3pt5-119",
+      "name": "Seaking",
+      "images": "https://images.pokemontcg.io/sv3pt5/119_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Staryu": [
+    {
+      "id": "sv3pt5-120",
+      "name": "Staryu",
+      "images": "https://images.pokemontcg.io/sv3pt5/120_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Magmar": [
+    {
+      "id": "sv3pt5-126",
+      "name": "Magmar",
+      "images": "https://images.pokemontcg.io/sv3pt5/126_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Tauros": [
+    {
+      "id": "sv3pt5-128",
+      "name": "Tauros",
+      "images": "https://images.pokemontcg.io/sv3pt5/128_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Flareon": [
+    {
+      "id": "sv3pt5-136",
+      "name": "Flareon",
+      "images": "https://images.pokemontcg.io/sv3pt5/136_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Omanyte": [
+    {
+      "id": "sv3pt5-138",
+      "name": "Omanyte",
+      "images": "https://images.pokemontcg.io/sv3pt5/138_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "sv3pt5-180",
+      "name": "Omanyte",
+      "images": "https://images.pokemontcg.io/sv3pt5/180_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Omastar": [
+    {
+      "id": "sv3pt5-139",
+      "name": "Omastar",
+      "images": "https://images.pokemontcg.io/sv3pt5/139_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Aerodactyl": [
+    {
+      "id": "sv3pt5-142",
+      "name": "Aerodactyl",
+      "images": "https://images.pokemontcg.io/sv3pt5/142_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Snorlax": [
+    {
+      "id": "sv3pt5-143",
+      "name": "Snorlax",
+      "images": "https://images.pokemontcg.io/sv3pt5/143_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Voltorb": [
+    {
+      "id": "sv3pt5-100",
+      "name": "Voltorb",
+      "images": "https://images.pokemontcg.io/sv3pt5/100_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Koffing": [
+    {
+      "id": "sv3pt5-109",
+      "name": "Koffing",
+      "images": "https://images.pokemontcg.io/sv3pt5/109_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Rhyhorn": [
+    {
+      "id": "sv3pt5-111",
+      "name": "Rhyhorn",
+      "images": "https://images.pokemontcg.io/sv3pt5/111_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Horsea": [
+    {
+      "id": "sv3pt5-116",
+      "name": "Horsea",
+      "images": "https://images.pokemontcg.io/sv3pt5/116_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Pinsir": [
+    {
+      "id": "sv3pt5-127",
+      "name": "Pinsir",
+      "images": "https://images.pokemontcg.io/sv3pt5/127_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Magikarp": [
+    {
+      "id": "sv3pt5-129",
+      "name": "Magikarp",
+      "images": "https://images.pokemontcg.io/sv3pt5/129_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Gyarados": [
+    {
+      "id": "sv3pt5-130",
+      "name": "Gyarados",
+      "images": "https://images.pokemontcg.io/sv3pt5/130_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Kabuto": [
+    {
+      "id": "sv3pt5-140",
+      "name": "Kabuto",
+      "images": "https://images.pokemontcg.io/sv3pt5/140_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Kabutops": [
+    {
+      "id": "sv3pt5-141",
+      "name": "Kabutops",
+      "images": "https://images.pokemontcg.io/sv3pt5/141_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Articuno": [
+    {
+      "id": "sv3pt5-144",
+      "name": "Articuno",
+      "images": "https://images.pokemontcg.io/sv3pt5/144_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Drowzee": [
+    {
+      "id": "sv3pt5-96",
+      "name": "Drowzee",
+      "images": "https://images.pokemontcg.io/sv3pt5/96_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Kingler": [
+    {
+      "id": "sv3pt5-99",
+      "name": "Kingler",
+      "images": "https://images.pokemontcg.io/sv3pt5/99_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Electrode": [
+    {
+      "id": "sv3pt5-101",
+      "name": "Electrode",
+      "images": "https://images.pokemontcg.io/sv3pt5/101_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Exeggutor": [
+    {
+      "id": "sv3pt5-103",
+      "name": "Exeggutor",
+      "images": "https://images.pokemontcg.io/sv3pt5/103_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Chansey": [
+    {
+      "id": "sv3pt5-113",
+      "name": "Chansey",
+      "images": "https://images.pokemontcg.io/sv3pt5/113_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Tangela": [
+    {
+      "id": "sv3pt5-114",
+      "name": "Tangela",
+      "images": "https://images.pokemontcg.io/sv3pt5/114_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    },
+    {
+      "id": "sv3pt5-178",
+      "name": "Tangela",
+      "images": "https://images.pokemontcg.io/sv3pt5/178_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Goldeen": [
+    {
+      "id": "sv3pt5-118",
+      "name": "Goldeen",
+      "images": "https://images.pokemontcg.io/sv3pt5/118_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Mr. Mime": [
+    {
+      "id": "sv3pt5-122",
+      "name": "Mr. Mime",
+      "images": "https://images.pokemontcg.io/sv3pt5/122_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    },
+    {
+      "id": "sv3pt5-179",
+      "name": "Mr. Mime",
+      "images": "https://images.pokemontcg.io/sv3pt5/179_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Jynx ex": [
+    {
+      "id": "sv3pt5-124",
+      "name": "Jynx ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/124_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-191",
+      "name": "Jynx ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/191_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    }
+  ],
+  "Electabuzz": [
+    {
+      "id": "sv3pt5-125",
+      "name": "Electabuzz",
+      "images": "https://images.pokemontcg.io/sv3pt5/125_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Jolteon": [
+    {
+      "id": "sv3pt5-135",
+      "name": "Jolteon",
+      "images": "https://images.pokemontcg.io/sv3pt5/135_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Porygon": [
+    {
+      "id": "sv3pt5-137",
+      "name": "Porygon",
+      "images": "https://images.pokemontcg.io/sv3pt5/137_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Krabby": [
+    {
+      "id": "sv3pt5-98",
+      "name": "Krabby",
+      "images": "https://images.pokemontcg.io/sv3pt5/98_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Exeggcute": [
+    {
+      "id": "sv3pt5-102",
+      "name": "Exeggcute",
+      "images": "https://images.pokemontcg.io/sv3pt5/102_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Lickitung": [
+    {
+      "id": "sv3pt5-108",
+      "name": "Lickitung",
+      "images": "https://images.pokemontcg.io/sv3pt5/108_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Weezing": [
+    {
+      "id": "sv3pt5-110",
+      "name": "Weezing",
+      "images": "https://images.pokemontcg.io/sv3pt5/110_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Starmie": [
+    {
+      "id": "sv3pt5-121",
+      "name": "Starmie",
+      "images": "https://images.pokemontcg.io/sv3pt5/121_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Scyther": [
+    {
+      "id": "sv3pt5-123",
+      "name": "Scyther",
+      "images": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Lapras": [
+    {
+      "id": "sv3pt5-131",
+      "name": "Lapras",
+      "images": "https://images.pokemontcg.io/sv3pt5/131_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Ditto": [
+    {
+      "id": "sv3pt5-132",
+      "name": "Ditto",
+      "images": "https://images.pokemontcg.io/sv3pt5/132_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Eevee": [
+    {
+      "id": "sv3pt5-133",
+      "name": "Eevee",
+      "images": "https://images.pokemontcg.io/sv3pt5/133_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Vaporeon": [
+    {
+      "id": "sv3pt5-134",
+      "name": "Vaporeon",
+      "images": "https://images.pokemontcg.io/sv3pt5/134_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Dragonair": [
+    {
+      "id": "sv3pt5-148",
+      "name": "Dragonair",
+      "images": "https://images.pokemontcg.io/sv3pt5/148_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "sv3pt5-181",
+      "name": "Dragonair",
+      "images": "https://images.pokemontcg.io/sv3pt5/181_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Illustration Rare"
+    }
+  ],
+  "Dragonite": [
+    {
+      "id": "sv3pt5-149",
+      "name": "Dragonite",
+      "images": "https://images.pokemontcg.io/sv3pt5/149_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Bill's Transfer": [
+    {
+      "id": "sv3pt5-156",
+      "name": "Bill's Transfer",
+      "images": "https://images.pokemontcg.io/sv3pt5/156_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "sv3pt5-194",
+      "name": "Bill's Transfer",
+      "images": "https://images.pokemontcg.io/sv3pt5/194_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    }
+  ],
+  "Cycling Road": [
+    {
+      "id": "sv3pt5-157",
+      "name": "Cycling Road",
+      "images": "https://images.pokemontcg.io/sv3pt5/157_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Grabber": [
+    {
+      "id": "sv3pt5-162",
+      "name": "Grabber",
+      "images": "https://images.pokemontcg.io/sv3pt5/162_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Leftovers": [
+    {
+      "id": "sv3pt5-163",
+      "name": "Leftovers",
+      "images": "https://images.pokemontcg.io/sv3pt5/163_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Mewtwo": [
+    {
+      "id": "sv3pt5-150",
+      "name": "Mewtwo",
+      "images": "https://images.pokemontcg.io/sv3pt5/150_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Antique Dome Fossil": [
+    {
+      "id": "sv3pt5-152",
+      "name": "Antique Dome Fossil",
+      "images": "https://images.pokemontcg.io/sv3pt5/152_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Antique Helix Fossil": [
+    {
+      "id": "sv3pt5-153",
+      "name": "Antique Helix Fossil",
+      "images": "https://images.pokemontcg.io/sv3pt5/153_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Energy Sticker": [
+    {
+      "id": "sv3pt5-159",
+      "name": "Energy Sticker",
+      "images": "https://images.pokemontcg.io/sv3pt5/159_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Erika's Invitation": [
+    {
+      "id": "sv3pt5-160",
+      "name": "Erika's Invitation",
+      "images": "https://images.pokemontcg.io/sv3pt5/160_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "sv3pt5-196",
+      "name": "Erika's Invitation",
+      "images": "https://images.pokemontcg.io/sv3pt5/196_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    },
+    {
+      "id": "sv3pt5-203",
+      "name": "Erika's Invitation",
+      "images": "https://images.pokemontcg.io/sv3pt5/203_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Special Illustration Rare"
+    }
+  ],
+  "Protective Goggles": [
+    {
+      "id": "sv3pt5-164",
+      "name": "Protective Goggles",
+      "images": "https://images.pokemontcg.io/sv3pt5/164_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Rigid Band": [
+    {
+      "id": "sv3pt5-165",
+      "name": "Rigid Band",
+      "images": "https://images.pokemontcg.io/sv3pt5/165_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Antique Old Amber": [
+    {
+      "id": "sv3pt5-154",
+      "name": "Antique Old Amber",
+      "images": "https://images.pokemontcg.io/sv3pt5/154_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Daisy's Help": [
+    {
+      "id": "sv3pt5-158",
+      "name": "Daisy's Help",
+      "images": "https://images.pokemontcg.io/sv3pt5/158_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "sv3pt5-195",
+      "name": "Daisy's Help",
+      "images": "https://images.pokemontcg.io/sv3pt5/195_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    }
+  ],
+  "Zapdos ex": [
+    {
+      "id": "sv3pt5-145",
+      "name": "Zapdos ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/145_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-192",
+      "name": "Zapdos ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/192_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    },
+    {
+      "id": "sv3pt5-202",
+      "name": "Zapdos ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/202_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Special Illustration Rare"
+    }
+  ],
+  "Moltres": [
+    {
+      "id": "sv3pt5-146",
+      "name": "Moltres",
+      "images": "https://images.pokemontcg.io/sv3pt5/146_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Rare"
+    }
+  ],
+  "Dratini": [
+    {
+      "id": "sv3pt5-147",
+      "name": "Dratini",
+      "images": "https://images.pokemontcg.io/sv3pt5/147_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Common"
+    }
+  ],
+  "Mew ex": [
+    {
+      "id": "sv3pt5-151",
+      "name": "Mew ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/151_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Double Rare"
+    },
+    {
+      "id": "sv3pt5-193",
+      "name": "Mew ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/193_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    },
+    {
+      "id": "sv3pt5-205",
+      "name": "Mew ex",
+      "images": "https://images.pokemontcg.io/sv3pt5/205_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Hyper Rare"
+    }
+  ],
+  "Big Air Balloon": [
+    {
+      "id": "sv3pt5-155",
+      "name": "Big Air Balloon",
+      "images": "https://images.pokemontcg.io/sv3pt5/155_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    }
+  ],
+  "Giovanni's Charisma": [
+    {
+      "id": "sv3pt5-161",
+      "name": "Giovanni's Charisma",
+      "images": "https://images.pokemontcg.io/sv3pt5/161_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "sv3pt5-197",
+      "name": "Giovanni's Charisma",
+      "images": "https://images.pokemontcg.io/sv3pt5/197_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Ultra Rare"
+    },
+    {
+      "id": "sv3pt5-204",
+      "name": "Giovanni's Charisma",
+      "images": "https://images.pokemontcg.io/sv3pt5/204_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Special Illustration Rare"
+    }
+  ],
+  "Switch": [
+    {
+      "id": "sv3pt5-206",
+      "name": "Switch",
+      "images": "https://images.pokemontcg.io/sv3pt5/206_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Hyper Rare"
+    }
+  ],
+  "Basic Psychic Energy": [
+    {
+      "id": "sv3pt5-207",
+      "name": "Basic Psychic Energy",
+      "images": "https://images.pokemontcg.io/sv3pt5/207_hires.png",
+      "series": "Scarlet & Violet",
+      "set": "151",
+      "rarity": "Hyper Rare"
+    }
+  ]
+}
