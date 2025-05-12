@@ -1,6 +1,32 @@
 import json 
 import os
 
+def data_process(page_data, pokemon_name, space_check):
+    pokemon_list = []
+    image_list = []
+    apostrophe_check = False
+
+    for card in page_data:
+        if card[0:len(pokemon_name)] == pokemon_name:
+            pokemon_list.append(card)
+
+    if not pokemon_list and space_check:
+        space_index = pokemon_name.find(" ")
+        if pokemon_name[space_index-1] == "s":
+            apostrophe_check = True
+            pokemon_name = pokemon_name[:space_index-1] + "'s " + pokemon_name[space_index+1:]
+
+        if apostrophe_check:
+            for card in page_data:
+                if card[0:len(pokemon_name)] == pokemon_name:
+                    pokemon_list.append(card)
+
+    for pokemon in pokemon_list:
+        for card in page_data[pokemon]:
+            image_list.append(card["images"])
+
+    return image_list
+
 def return151images_given_name(search_name):
 
     """ 
@@ -16,17 +42,12 @@ def return151images_given_name(search_name):
         A list of images pertaining to the input parameter 
     """
 
-    #os.chdir("/Users/jiajunhuang/capstone_test/scarlet_&_violet_database") # This needs to change
     first_letter = search_name[0]
-    image_list = [] #What we will be returning/outputting
-    pokemon_list = [] #What pokemon cards will be added to the final image_list
+    image_list = []
 
     space_check = False
-    apostrophe_check = False
-
     pokemon_name = search_name.strip().lower().capitalize()
 
-    #Formatting the input and to make 2nd word capitalize if user didn't 
     if " " in pokemon_name:
         space_check = True
         space_index = pokemon_name.find(" ")
@@ -36,23 +57,11 @@ def return151images_given_name(search_name):
     with open("151.json", encoding="utf-8") as file:
         page_data = json.load(file)
 
-    for card in page_data:
-        if card[0:len(pokemon_name)] == pokemon_name:
-            pokemon_list.append(card)
+    image_list += data_process(page_data, pokemon_name, space_check)
 
-    if not pokemon_list:
-        if space_check:
-            space_index = pokemon_name.find(" ")
-            if pokemon_name[space_index-1] == "s":
-                apostrophe_check = True
-                pokemon_name = pokemon_name[:space_index-1] + "'s " + pokemon_name[space_index+1:]
-            if apostrophe_check:
-                for card in page_data:
-                    if card[0:len(pokemon_name)] == pokemon_name:
-                        pokemon_list.append(card)
+    with open("obsidian_flames.json", encoding="utf-8") as file:
+        page_data = json.load(file)
 
-    for pokemon in pokemon_list:
-        for card in page_data[pokemon]:
-            image_list.append(card["images"])
+    image_list += data_process(page_data, pokemon_name, space_check)
 
     return image_list
