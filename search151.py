@@ -54,11 +54,6 @@ def return151images_given_name(search_name):
         if 0 <= space_index < len(pokemon_name):
             pokemon_name = pokemon_name[:space_index+1] + pokemon_name[space_index+1].upper() + pokemon_name[space_index+2:]
 
-    with open("151.json", encoding="utf-8") as file:
-        page_data = json.load(file)
-
-    image_list += data_process(page_data, pokemon_name, space_check)
-
     with open("obsidian_flames.json", encoding="utf-8") as file:
         page_data = json.load(file)
 
