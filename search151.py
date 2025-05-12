@@ -61,4 +61,6 @@ def return151images_given_name(search_name):
     with open("obsidian_flames.json", encoding="utf-8") as file:
         page_data = json.load(file)
 
+    data_process(page_data)
+
     return image_list
