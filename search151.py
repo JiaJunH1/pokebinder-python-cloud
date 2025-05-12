@@ -59,7 +59,7 @@ def return151images_given_name(search_name):
 
     image_list += data_process(page_data, pokemon_name, space_check)
 
-    with open("obsidian_flames.json", encoding="utf-8") as file:
+    with open("twilight_masquerade.json", encoding="utf-8") as file:
         page_data = json.load(file)
 
     image_list += data_process(page_data, pokemon_name, space_check)
