@@ -55,26 +55,4 @@ def return151images_given_name(search_name):
         for card in page_data[pokemon]:
             image_list.append(card["images"])
 
-    with open("obsidian_flames.json", encoding="utf-8") as file:
-        page_data = json.load(file)
-
-    for card in page_data:
-        if card[0:len(pokemon_name)] == pokemon_name:
-            pokemon_list.append(card)
-
-    if not pokemon_list:
-        if space_check:
-            space_index = pokemon_name.find(" ")
-            if pokemon_name[space_index-1] == "s":
-                apostrophe_check = True
-                pokemon_name = pokemon_name[:space_index-1] + "'s " + pokemon_name[space_index+1:]
-            if apostrophe_check:
-                for card in page_data:
-                    if card[0:len(pokemon_name)] == pokemon_name:
-                        pokemon_list.append(card)
-
-    for pokemon in pokemon_list:
-        for card in page_data[pokemon]:
-            image_list.append(card["images"])
-
     return image_list
